@@ -1,0 +1,7 @@
+Rent	1000	2023-04-01	paid
+Electricity	75.5	2023-04-05	unpaid
+Internet	60	2023-04-07	unpaid
+Water	30	2023-04-10	unpaid
+Phone	45.99	2023-04-12	paid
+Gas	40	2023-04-15	unpaid
+Insurance	150	2023-04-20	unpaid
